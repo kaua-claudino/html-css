@@ -2,14 +2,14 @@
 
 /* Todas as demais mídias */
 
-/* Typical Device breakpoints (2024)
-------------------------------------
-pequenas telas: até 640px
-celulares: de 640 até 768px
-tablets: de 768 até 1024px
-desktops: de 1024 até 1280px
-grandes desktops: acima de 1280px
-*/
+    /* Typical Device breakpoints (2024)
+    ------------------------------------
+    pequenas telas: até 640px
+    celulares: de 640 até 768px
+    tablets: de 768 até 1024px
+    desktops: de 1024 até 1280px
+    grandes desktops: acima de 1280px
+    */
 
 @media print {
     * {
